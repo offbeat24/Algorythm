@@ -1,0 +1,10 @@
+3주차 topic: 정렬
+3주차 문제(1.14~1.19)
+1. 2750 수 정렬하기 B1
+https://www.acmicpc.net/problem/2750
+2. 1931 회의실 배정 S2
+https://www.acmicpc.net/problem/1931
+3. 1946 신입 사원 S1
+https://www.acmicpc.net/problem/1946
+4. 1202 보석 도둑 G2
+https://www.acmicpc.net/problem/1202
