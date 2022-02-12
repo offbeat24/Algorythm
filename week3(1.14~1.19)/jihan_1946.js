@@ -24,7 +24,7 @@ for(let i = 0; i<testcase; i++){
     temp = input[index][0];
     //console.log(temp);
     let start = index+1, end = index+temp;
-    
+
     for(let j = start; j <= end; j++){
         array.push(input[j]);
     }
