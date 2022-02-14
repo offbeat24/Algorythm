@@ -12,5 +12,5 @@
   - [2178번: 미로탐색](https://www.acmicpc.net/problem/2178)
 - DP
   - [9095번: 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
-  - [2579번: 1로 만들기](https://www.acmicpc.net/problem/2579)
+  - [2579번: 계단 오르기](https://www.acmicpc.net/problem/2579)
   - [9461번: 파도반 수열](https://www.acmicpc.net/problem/9461)
