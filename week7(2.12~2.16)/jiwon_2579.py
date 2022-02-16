@@ -1,3 +1,5 @@
+# num이 1인 경우 예외처리 및, 케이스 더 살펴보기
+
 import sys
 
 num = int(sys.stdin.readline())
