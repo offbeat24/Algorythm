@@ -24,4 +24,4 @@
     - [20922: 겹치는 건 싫어](https://www.acmicpc.net/problem/20922)
     - [2230: 수 고르기](https://www.acmicpc.net/problem/2230)
     - [1806: 부분합](https://www.acmicpc.net/problem/1806)
-      > -[11728: 배열 합치기](https://www.acmicpc.net/problem/11728)
+      > - [11728: 배열 합치기](https://www.acmicpc.net/problem/11728)
