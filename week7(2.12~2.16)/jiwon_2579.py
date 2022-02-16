@@ -10,19 +10,25 @@ table[0][0] = table[0][1] = stairs[0]
 table[1][0] = stairs[0] + stairs[1]
 table[1][1] = stairs[1]
 
-for i in range(2, num):
-  if(num - i) % 3 == 1:
-    table[i][0] = table[i-1][1] + stairs[i]
-    table[i][1] = max(table[i-2]) + stairs[i] ##헷갈린다?
-  if(num - i) % 3 == 2:
-    table[i][0] = 0
-    table[i][1] = max(table[i-2]) + stairs[i] ##헷갈린다?
-  if(num - i) % 3 == 0:
-    table[i][0] = table[i-1][1] + stairs[i]
-    table[i][1] = max(table[i-2]) + stairs[i] ##헷갈린다?
+if num == 1:
+  print(stairs[0])
+else:
+  for i in range(2, num):
+    table[i] = [table[i-1][1]+stairs[i],max(table[i-2])+stairs[i]]
+    """
+    if(num - i) % 3 == 1:
+      table[i][0] = table[i-1][1] + stairs[i]
+      table[i][1] = max(table[i-2]) + stairs[i] ##헷갈린다?
+    if(num - i) % 3 == 2:
+      table[i][0] = 0
+      table[i][1] = max(table[i-2]) + stairs[i] ##헷갈린다?
+    if(num - i) % 3 == 0:
+      table[i][0] = table[i-1][1] + stairs[i]
+      table[i][1] = max(table[i-2]) + stairs[i] ##헷갈린다?
+    """
 
-print(table)
-print(max(table[num-1]))
+  #print(table)
+  print(max(table[num-1]))
 
 """
 memo = [0] * num
