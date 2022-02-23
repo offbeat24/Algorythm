@@ -1,5 +1,6 @@
 import copy
 import sys
+
 n=9000
 a = [False,False] + [True]*(n-1)
 primes=[]
