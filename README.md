@@ -1,27 +1,28 @@
 # Algorythm
 
-## 8주차 과제(2.17~2.23)
+## 9주차 과제(2.24~3.2)
 
 - TOPIC
-  - 김지원 : Binary Search
-  - 박시현 : Tree
-  - 박지한 : Prefix Sum
-  - 공통 : Merge Sort Tree
+
+  - 김지원 : Souvenir, 프로젝트
+  - 박시현 : Priority Queue, Heap
+  - 박지한 : Segment Tree
 
 - 과제
-  - Divide and Conquer
-    - [1074번: Z](https://www.acmicpc.net/problem/1780)
-    - [1780번: 종이의 개수](https://www.acmicpc.net/problem/1780)
-    - [24060번: 알고리즘 구업 - 병합 정렬1](https://www.acmicpc.net/problem/24060)
-      1. [7469번: K번째 수](https://www.acmicpc.net/problem/7469)
 
-  - Backtracking
-    - [19699번: 소-난다!](https://www.acmicpc.net/problem/19699)
-    - [2992번: 크면서 작은 수](https://www.acmicpc.net/problem/2992)
-    - [7682번: 틱택토](https://www.acmicpc.net/problem/7682)
+  - Tree
 
-  - Two Pointer
-    - [20922: 겹치는 건 싫어](https://www.acmicpc.net/problem/20922)
-    - [2230: 수 고르기](https://www.acmicpc.net/problem/2230)
-    - [1806: 부분합](https://www.acmicpc.net/problem/1806)
-      1. [11728: 배열 합치기](https://www.acmicpc.net/problem/11728)
+    - [1068번: 트리](https://www.acmicpc.net/problem/1068)
+    - [6416번: 트리인가?](https://www.acmicpc.net/problem/6416)
+    - [9489번: 사촌](https://www.acmicpc.net/problem/9489)
+
+  - Prefix Sum
+
+    - [11660번: 구간 합 구하기5](https://www.acmicpc.net/problem/11660)
+    - [1749번: 점수 따먹기](https://www.acmicpc.net/problem/1749)
+    - [20440번: 니가 싫어~](https://www.acmicpc.net/problem/20440)
+
+  - Binary Search
+    - [10815: 숫자 카드](https://www.acmicpc.net/problem/10815)
+    - [19637: IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
+    - [3079: 입국심사](https://www.acmicpc.net/problem/3079)

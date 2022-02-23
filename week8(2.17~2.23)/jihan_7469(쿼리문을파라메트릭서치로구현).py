@@ -67,7 +67,7 @@ def upperBound(x,nodeIndex):
 #x보다 큰 가장 작은 수의 인덱스를 리턴함(upperBound). 이는 리스트 안의 인덱스이므로
 #x보다 작은 수의 개수라고 할 수 있음.
 #그리고 이를 모두 더하면, 목표 구간에 포함되는 모든 노드 내에서의 x보다 작은 수의 개수가 됨.
-def query(x,start,end,nodeIndex): 
+def query(x,start,end,nodeIndex):
     left = MST[nodeIndex][0]
     right = MST[nodeIndex][1]
     if left > end or right < start:
@@ -91,4 +91,3 @@ for _ in range(m):
         else:
             end = mid - 1
     print(start)
-    
