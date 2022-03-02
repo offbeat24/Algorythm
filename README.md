@@ -1,28 +1,18 @@
 # Algorythm
 
-## 9주차 과제(2.24~3.2)
+## 10주차 과제(3.3~3.9)
 
 - TOPIC
 
-  - 김지원 : Souvenir, 프로젝트
+  - 김지원 :
   - 박시현 : Priority Queue, Heap
-  - 박지한 : Segment Tree
+  - 박지한 :
 
 - 과제
 
-  - Tree
+  - Segment Tree
 
-    - [1068번: 트리](https://www.acmicpc.net/problem/1068)
-    - [6416번: 트리인가?](https://www.acmicpc.net/problem/6416)
-    - [9489번: 사촌](https://www.acmicpc.net/problem/9489)
+    - [2268번: 수들의 합 7](https://www.acmicpc.net/problem/2268)
 
-  - Prefix Sum
-
-    - [11660번: 구간 합 구하기5](https://www.acmicpc.net/problem/11660)
-    - [1749번: 점수 따먹기](https://www.acmicpc.net/problem/1749)
-    - [20440번: 니가 싫어~](https://www.acmicpc.net/problem/20440)
-
-  - Binary Search
-    - [10815: 숫자 카드](https://www.acmicpc.net/problem/10815)
-    - [19637: IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
-    - [3079: 입국심사](https://www.acmicpc.net/problem/3079)
+  - 단계별로 풀어보기
+    - 10단계까지
